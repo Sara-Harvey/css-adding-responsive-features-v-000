@@ -35,6 +35,7 @@ col-3 p {
     column-count: 2;
 }
 
-#navbar nav a
-
+#navbar nav a {
+font-size: 0.9em;
+}
 }
