@@ -7,7 +7,7 @@
   position: absolute;
   top: 82px;
   right: 20px;
-  width: 40px;
+  width: auto;
   z-index: 2;
 }
 }  
