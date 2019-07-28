@@ -2,4 +2,12 @@
   .wrapper {
     width: 90%;
   }
+  
+  #social {
+  position: fixed;
+  top: 163px;
+  right: 20px;
+  width: 40px;
+  z-index: 2;
+}
 }  
